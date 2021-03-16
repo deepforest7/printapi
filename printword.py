@@ -1,3 +1,7 @@
+'''
+打印word pdf excel
+
+'''
 import win32print
 import win32api
 fn = 'C:\\Users\\DeepForest\\Desktop\\28610063816.pdf'

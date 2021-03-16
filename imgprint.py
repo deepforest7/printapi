@@ -1,3 +1,7 @@
+'''
+打印图片，限制高宽
+
+'''
 import win32print
 import win32ui
 from PIL import Image, ImageWin

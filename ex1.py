@@ -1,3 +1,6 @@
+'''
+可预览打印图片或者文字
+'''
 from PyQt5.QtWidgets import (QApplication, QWidget, QTableWidget, QPushButton,
                              QVBoxLayout,
                              QTableWidgetItem)

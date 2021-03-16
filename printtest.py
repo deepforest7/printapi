@@ -1,3 +1,7 @@
+'''
+文字打印
+
+'''
 import os, sys
 import win32print
 printer_name = win32print.GetDefaultPrinter ()
